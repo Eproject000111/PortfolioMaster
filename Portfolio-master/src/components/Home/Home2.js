@@ -18,14 +18,24 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
+            
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am good in
+              I fell in love with programming and am continually expanding my skills, especially in 
               <i>
                 <b className="purple"> Javascript. </b>
               </i>
+              <br/>
+              <br/>
+                My strengths lie in building new web technologies and products, 
+                <br/>
+                where I apply my passion and expertise in modern 
+                <i>
+                  <b className="purple"> JavaScript frameworks </b>
+                </i>
+                and 
+                <i>
+                  <b className="purple"> libraries </b>
+                </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
