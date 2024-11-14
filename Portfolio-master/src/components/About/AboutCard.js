@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I&nbsp;have&nbsp;completed&nbsp;MCA at LPU in Punjab, 2021.
             <br />
-            I am currently employed as a Angular Developer at Instantpay India Limited (https://www.instantpay.in/).
+            I'm&nbsp;currently&nbsp;employed&nbsp;as&nbsp;a&nbsp;Angular&nbsp;Developer&nbsp;at <a style={{textDecoration: 'unset'}} href="https://www.instantpay.in/">Instantpay&nbsp;India&nbsp;Limited</a>.
             <br />
             I have 3.5 years of experience in the Angular Developer.
             <br />
