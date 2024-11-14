@@ -18,7 +18,7 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
-            
+
             <p className="home-about-body">
               I fell in love with programming and am continually expanding my skills, especially in 
               <i>
@@ -60,7 +60,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="avatar" style={{borderRadius:'130px'}} />
             </Tilt>
           </Col>
         </Row>
