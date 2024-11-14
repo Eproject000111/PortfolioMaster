@@ -8,29 +8,27 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Ajay Kumar Tripathi </span>
+            Hi Everyone, I'm <span className="purple">Ajay Kumar Tripathi </span>
             from <span className="purple"> Varanasi, India.</span>
             <br />
-            I am currently employed as a Angular Developer at Instantpay.
+            I&nbsp;have&nbsp;completed&nbsp;MCA at LPU in Punjab, 2021.
             <br />
-            I have completed MCA in Computer Application at LPU in
-            Punjab.
+            I am currently employed as a Angular Developer at Instantpay India Limited (https://www.instantpay.in/).
+            <br />
+            I have 3.5 years of experience in the Angular Developer.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing games.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Learning New Things
+              <ImPointRight /> Love to work with new technology, and learning to new things.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Singing
+              <ImPointRight /> Travelling.
             </li>
           </ul>
 
